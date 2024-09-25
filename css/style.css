@@ -1,0 +1,15 @@
+body{
+    margin: 0 auto;
+}
+
+.carousel-item img{
+    object-fit: cover;
+    height: 500px;
+    width: 500px;
+}
+
+.container{
+    display: flex;
+    margin-left: 0;
+}
+
